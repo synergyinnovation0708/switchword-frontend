@@ -1,0 +1,141 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic "Main navigation" [ref=e3]:
+      - link "The Switchwords home" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img [ref=e5]
+        - img [ref=e6]
+        - generic [ref=e7]: theswitchwords
+      - navigation [ref=e8]:
+        - link "Home" [ref=e9] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e10] [cursor=pointer]:
+          - /url: /about
+        - link "Journal" [ref=e11] [cursor=pointer]:
+          - /url: /journal
+        - link "Pricing" [ref=e12] [cursor=pointer]:
+          - /url: /pricing
+        - link "Contact" [ref=e13] [cursor=pointer]:
+          - /url: /contact
+        - link "Account" [ref=e14] [cursor=pointer]:
+          - /url: /signin
+          - img [ref=e15]
+    - region "Your practice" [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - heading "Your practice" [level=1] [ref=e20]
+            - img [ref=e21]
+          - paragraph [ref=e24]: Presence Plan — ₹999/month • Premium Member
+        - link "Logout" [ref=e25] [cursor=pointer]:
+          - /url: /signin
+      - generic [ref=e26]:
+        - complementary [ref=e27]:
+          - navigation "Practice sections" [ref=e28]:
+            - button "Today's Word" [ref=e29] [cursor=pointer]:
+              - generic [ref=e30]: Today's Word
+            - button "WhatsApp Chat" [ref=e31] [cursor=pointer]:
+              - generic [ref=e32]: WhatsApp Chat
+            - button "Phone Support" [ref=e33] [cursor=pointer]:
+              - generic [ref=e34]: Phone Support
+            - button "Practice Log" [ref=e35] [cursor=pointer]:
+              - generic [ref=e36]: Practice Log
+            - button "Personal Plan" [ref=e37] [cursor=pointer]:
+              - generic [ref=e38]: Personal Plan
+            - button "Weekly Check-ins" [ref=e39] [cursor=pointer]:
+              - generic [ref=e40]: Weekly Check-ins
+            - button "Settings" [ref=e41] [cursor=pointer]:
+              - generic [ref=e42]: Settings
+          - region "Membership details" [ref=e43]:
+            - img [ref=e44]
+            - heading "Presence Member" [level=2] [ref=e47]
+            - paragraph [ref=e48]: Full access to all premium features including personal support.
+            - list [ref=e49]:
+              - listitem [ref=e50]:
+                - img [ref=e51]
+                - generic [ref=e53]: Unlimited AI Chat
+              - listitem [ref=e54]:
+                - img [ref=e55]
+                - generic [ref=e57]: WhatsApp Support
+              - listitem [ref=e58]:
+                - img [ref=e59]
+                - generic [ref=e61]: Phone/Video Calls
+        - generic [ref=e62]:
+          - region "Scattered mornings" [ref=e63]:
+            - generic [ref=e64]:
+              - paragraph [ref=e65]: Your personalized word for today
+              - heading "Scattered mornings" [level=2] [ref=e66]
+            - generic [ref=e67]:
+              - generic [ref=e68]:
+                - heading "TOGETHER" [level=3] [ref=e69]
+                - paragraph [ref=e70]: Brings scattered energy into focus. Whisper this when your morning feels fragmented before it has even begun.
+              - paragraph [ref=e71]: The Three Whispers Method
+              - list [ref=e72]:
+                - listitem [ref=e73]:
+                  - generic [ref=e74]: "1."
+                  - paragraph [ref=e75]: Whisper it softly, three times
+                - listitem [ref=e76]:
+                  - generic [ref=e77]: "2."
+                  - paragraph [ref=e78]: Carry it into the moment that needs it
+                - listitem [ref=e79]:
+                  - generic [ref=e80]: "3."
+                  - paragraph [ref=e81]: When the ache returns, whisper again
+            - button "Mark as practiced" [ref=e82] [cursor=pointer]
+          - region "Practice metrics" [ref=e83]:
+            - article [ref=e84]:
+              - generic [ref=e85]:
+                - img [ref=e86]
+                - paragraph [ref=e88]: Streak
+              - strong [ref=e89]: "7"
+              - generic [ref=e90]: days
+            - article [ref=e91]:
+              - generic [ref=e92]:
+                - img [ref=e93]
+                - paragraph [ref=e96]: This month
+              - strong [ref=e97]: "23"
+              - generic [ref=e98]: days practiced
+            - article [ref=e99]:
+              - generic [ref=e100]:
+                - img [ref=e101]
+                - paragraph [ref=e105]: Goal
+              - strong [ref=e106]: "30"
+              - generic [ref=e107]: days/month
+    - generic [ref=e109]:
+      - generic [ref=e110]:
+        - generic [ref=e111]:
+          - link "The Switchwords home" [ref=e112] [cursor=pointer]:
+            - /url: /
+            - img [ref=e113]
+            - img [ref=e114]
+            - generic [ref=e115]: theswitchwords
+          - paragraph [ref=e116]: One word. Said softly. Said on purpose.
+          - generic "Social links" [ref=e117]:
+            - link "YouTube" [ref=e118] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e119]
+            - link "Instagram" [ref=e120] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e121]
+        - navigation "Footer navigation" [ref=e122]:
+          - link "About" [ref=e123] [cursor=pointer]:
+            - /url: /about
+          - link "Journal" [ref=e124] [cursor=pointer]:
+            - /url: /journal
+          - link "Pricing" [ref=e125] [cursor=pointer]:
+            - /url: /pricing
+          - link "Contact" [ref=e126] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e127]:
+          - link "@theswitchwords" [ref=e128] [cursor=pointer]:
+            - /url: "#"
+          - link "hello@theswitchwords.com" [ref=e129] [cursor=pointer]:
+            - /url: mailto:hello@theswitchwords.com
+      - generic [ref=e130]:
+        - paragraph [ref=e131]: © 2026 The Switchwords
+        - generic [ref=e132]:
+          - link "Privacy" [ref=e133] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms" [ref=e134] [cursor=pointer]:
+            - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e140] [cursor=pointer]:
+    - img [ref=e141]

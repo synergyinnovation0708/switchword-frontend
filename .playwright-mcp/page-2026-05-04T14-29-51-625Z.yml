@@ -1,0 +1,220 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic "Main navigation" [ref=e3]:
+      - link "The Switchwords home" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img [ref=e5]
+        - img [ref=e6]
+        - generic [ref=e7]: theswitchwords
+      - navigation [ref=e8]:
+        - link "Home" [ref=e9] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e10] [cursor=pointer]:
+          - /url: /about
+        - link "Journal" [ref=e11] [cursor=pointer]:
+          - /url: /journal
+        - link "Pricing" [ref=e12] [cursor=pointer]:
+          - /url: /pricing
+        - link "Contact" [ref=e13] [cursor=pointer]:
+          - /url: /contact
+        - link "Account" [ref=e14] [cursor=pointer]:
+          - /url: /signin
+          - img [ref=e15]
+    - generic [ref=e16]:
+      - heading "Choose your practice" [level=1] [ref=e17]
+      - paragraph [ref=e18]: Start with the free guide, or choose a plan that fits how you want to practice. No pressure, no urgency. Just three options, explained honestly.
+    - region "Pricing plans" [ref=e19]:
+      - generic [ref=e20]:
+        - article [ref=e21]:
+          - heading "Whisper" [level=2] [ref=e22]
+          - paragraph [ref=e23]: Start with the basics
+          - paragraph [ref=e24]:
+            - generic [ref=e25]: ₹19
+            - text: /month
+          - list [ref=e26]:
+            - listitem [ref=e27]:
+              - generic [ref=e28]: ✓
+              - generic [ref=e29]: The 7-Day Whisper PDF
+            - listitem [ref=e30]:
+              - generic [ref=e31]: ✓
+              - generic [ref=e32]: Access to all switchwords
+            - listitem [ref=e33]:
+              - generic [ref=e34]: ✓
+              - generic [ref=e35]: Weekly email with one word
+            - listitem [ref=e36]:
+              - generic [ref=e37]: ✓
+              - generic [ref=e38]: Stress-to-word finder
+          - link "Choose Whisper" [ref=e39] [cursor=pointer]:
+            - /url: /pricing/whisper
+        - article [ref=e40]:
+          - paragraph [ref=e41]: Most Popular
+          - heading "Murmur" [level=2] [ref=e42]
+          - paragraph [ref=e43]: Personalized daily practice
+          - paragraph [ref=e44]:
+            - generic [ref=e45]: ₹399
+            - text: /month
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - generic [ref=e48]: ✓
+              - generic [ref=e49]: Everything in Whisper
+            - listitem [ref=e50]:
+              - generic [ref=e51]: ✓
+              - generic [ref=e52]: Personalized daily word via email
+            - listitem [ref=e53]:
+              - generic [ref=e54]: ✓
+              - generic [ref=e55]: Practice tracking dashboard
+            - listitem [ref=e56]:
+              - generic [ref=e57]: ✓
+              - generic [ref=e58]: AI chat support (2 messages/day)
+            - listitem [ref=e59]:
+              - generic [ref=e60]: ✓
+              - generic [ref=e61]: Monthly reflection prompts
+            - listitem [ref=e62]:
+              - generic [ref=e63]: ✓
+              - generic [ref=e64]: Cancel anytime
+          - link "Choose Murmur" [ref=e65] [cursor=pointer]:
+            - /url: /pricing/murmur
+        - article [ref=e66]:
+          - heading "Presence" [level=2] [ref=e67]
+          - paragraph [ref=e68]: Full guided practice
+          - paragraph [ref=e69]:
+            - generic [ref=e70]: ₹999
+            - text: /month
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - generic [ref=e73]: ✓
+              - generic [ref=e74]: Everything in Murmur
+            - listitem [ref=e75]:
+              - generic [ref=e76]: ✓
+              - generic [ref=e77]: Daily word via WhatsApp
+            - listitem [ref=e78]:
+              - generic [ref=e79]: ✓
+              - generic [ref=e80]: Unlimited AI chat support
+            - listitem [ref=e81]:
+              - generic [ref=e82]: ✓
+              - generic [ref=e83]: Personal practice plan
+            - listitem [ref=e84]:
+              - generic [ref=e85]: ✓
+              - generic [ref=e86]: Weekly 1-on-1 check-in (text)
+            - listitem [ref=e87]:
+              - generic [ref=e88]: ✓
+              - generic [ref=e89]: Priority email support
+          - link "Choose Presence" [ref=e90] [cursor=pointer]:
+            - /url: /pricing/presence
+    - region "Feature comparison" [ref=e91]:
+      - heading "Compare all features" [level=2] [ref=e92]
+      - table [ref=e94]:
+        - rowgroup [ref=e95]:
+          - row "Feature Whisper Murmur Presence" [ref=e96]:
+            - columnheader "Feature" [ref=e97]
+            - columnheader "Whisper" [ref=e98]
+            - columnheader "Murmur" [ref=e99]
+            - columnheader "Presence" [ref=e100]
+        - rowgroup [ref=e101]:
+          - row "7-Day Whisper PDF" [ref=e102]:
+            - rowheader "7-Day Whisper PDF" [ref=e103]
+            - cell [ref=e104]:
+              - generic [ref=e105]: ✓
+            - cell [ref=e106]:
+              - generic [ref=e107]: ✓
+            - cell [ref=e108]:
+              - generic [ref=e109]: ✓
+          - row "Weekly email newsletter" [ref=e110]:
+            - rowheader "Weekly email newsletter" [ref=e111]
+            - cell [ref=e112]:
+              - generic [ref=e113]: ✓
+            - cell [ref=e114]:
+              - generic [ref=e115]: ✓
+            - cell [ref=e116]:
+              - generic [ref=e117]: ✓
+          - row "Stress-to-word finder" [ref=e118]:
+            - rowheader "Stress-to-word finder" [ref=e119]
+            - cell [ref=e120]:
+              - generic [ref=e121]: ✓
+            - cell [ref=e122]:
+              - generic [ref=e123]: ✓
+            - cell [ref=e124]:
+              - generic [ref=e125]: ✓
+          - row "Personalized daily word Not included" [ref=e126]:
+            - rowheader "Personalized daily word" [ref=e127]
+            - cell "Not included" [ref=e128]: —
+            - cell [ref=e129]:
+              - generic [ref=e130]: ✓
+            - cell [ref=e131]:
+              - generic [ref=e132]: ✓
+          - row "Practice tracking dashboard Not included" [ref=e133]:
+            - rowheader "Practice tracking dashboard" [ref=e134]
+            - cell "Not included" [ref=e135]: —
+            - cell [ref=e136]:
+              - generic [ref=e137]: ✓
+            - cell [ref=e138]:
+              - generic [ref=e139]: ✓
+          - row "AI chat support Not included 2 msgs/day Unlimited" [ref=e140]:
+            - rowheader "AI chat support" [ref=e141]
+            - cell "Not included" [ref=e142]: —
+            - cell "2 msgs/day" [ref=e143]
+            - cell "Unlimited" [ref=e144]
+          - row "Monthly reflection prompts Not included" [ref=e145]:
+            - rowheader "Monthly reflection prompts" [ref=e146]
+            - cell "Not included" [ref=e147]: —
+            - cell [ref=e148]:
+              - generic [ref=e149]: ✓
+            - cell [ref=e150]:
+              - generic [ref=e151]: ✓
+          - row "WhatsApp delivery Not included Not included" [ref=e152]:
+            - rowheader "WhatsApp delivery" [ref=e153]
+            - cell "Not included" [ref=e154]: —
+            - cell "Not included" [ref=e155]: —
+            - cell [ref=e156]:
+              - generic [ref=e157]: ✓
+          - row "Personal practice plan Not included Not included" [ref=e158]:
+            - rowheader "Personal practice plan" [ref=e159]
+            - cell "Not included" [ref=e160]: —
+            - cell "Not included" [ref=e161]: —
+            - cell [ref=e162]:
+              - generic [ref=e163]: ✓
+          - row "Weekly text check-in Not included Not included" [ref=e164]:
+            - rowheader "Weekly text check-in" [ref=e165]
+            - cell "Not included" [ref=e166]: —
+            - cell "Not included" [ref=e167]: —
+            - cell [ref=e168]:
+              - generic [ref=e169]: ✓
+    - generic [ref=e171]:
+      - generic [ref=e172]:
+        - generic [ref=e173]:
+          - link "The Switchwords home" [ref=e174] [cursor=pointer]:
+            - /url: /
+            - img [ref=e175]
+            - img [ref=e176]
+            - generic [ref=e177]: theswitchwords
+          - paragraph [ref=e178]: One word. Said softly. Said on purpose.
+          - generic "Social links" [ref=e179]:
+            - link "YouTube" [ref=e180] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e181]
+            - link "Instagram" [ref=e182] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e183]
+        - navigation "Footer navigation" [ref=e184]:
+          - link "About" [ref=e185] [cursor=pointer]:
+            - /url: /about
+          - link "Journal" [ref=e186] [cursor=pointer]:
+            - /url: /journal
+          - link "Pricing" [ref=e187] [cursor=pointer]:
+            - /url: /pricing
+          - link "Contact" [ref=e188] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e189]:
+          - link "@theswitchwords" [ref=e190] [cursor=pointer]:
+            - /url: "#"
+          - link "hello@theswitchwords.com" [ref=e191] [cursor=pointer]:
+            - /url: mailto:hello@theswitchwords.com
+      - generic [ref=e192]:
+        - paragraph [ref=e193]: © 2026 The Switchwords
+        - generic [ref=e194]:
+          - link "Privacy" [ref=e195] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms" [ref=e196] [cursor=pointer]:
+            - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e202] [cursor=pointer]:
+    - img [ref=e203]

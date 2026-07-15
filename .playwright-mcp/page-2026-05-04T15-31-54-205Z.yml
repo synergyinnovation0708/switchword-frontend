@@ -1,0 +1,111 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic "Main navigation" [ref=e3]:
+      - link "The Switchwords home" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img [ref=e5]
+        - img [ref=e6]
+        - generic [ref=e7]: theswitchwords
+      - navigation [ref=e8]:
+        - link "Home" [ref=e9] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e10] [cursor=pointer]:
+          - /url: /about
+        - link "Journal" [ref=e11] [cursor=pointer]:
+          - /url: /journal
+        - link "Pricing" [ref=e12] [cursor=pointer]:
+          - /url: /pricing
+        - link "Contact" [ref=e13] [cursor=pointer]:
+          - /url: /contact
+        - link "Account" [ref=e14] [cursor=pointer]:
+          - /url: /signin
+          - img [ref=e15]
+    - region "Admin Dashboard" [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - heading "Admin Dashboard" [level=1] [ref=e19]
+          - link "Logout" [ref=e20] [cursor=pointer]:
+            - /url: /admin/login
+            - img [ref=e21]
+            - generic [ref=e24]: Logout
+        - region "Admin metrics" [ref=e25]:
+          - article [ref=e26]:
+            - generic [ref=e27]:
+              - paragraph [ref=e28]: Total Users
+              - img [ref=e29]
+            - strong [ref=e34]: 1,247
+            - generic [ref=e35]: +12% from last month
+          - article [ref=e36]:
+            - generic [ref=e37]:
+              - paragraph [ref=e38]: Active Subscriptions
+              - img [ref=e39]
+            - strong [ref=e41]: "892"
+            - generic [ref=e42]: 71% conversion rate
+          - article [ref=e43]:
+            - generic [ref=e44]:
+              - paragraph [ref=e45]: Monthly Revenue
+              - img [ref=e46]
+            - strong [ref=e48]: ₹4.2L
+            - generic [ref=e49]: +8% from last month
+        - region "Recent User Activity" [ref=e50]:
+          - heading "Recent User Activity" [level=2] [ref=e51]
+          - generic [ref=e52]:
+            - article [ref=e53]:
+              - generic [ref=e54]:
+                - heading "Priya Sharma" [level=3] [ref=e55]
+                - paragraph [ref=e56]: Upgraded to Presence plan
+              - generic [ref=e57]: 2 hours ago
+            - article [ref=e58]:
+              - generic [ref=e59]:
+                - heading "Rahul Verma" [level=3] [ref=e60]
+                - paragraph [ref=e61]: Completed 30-day streak
+              - generic [ref=e62]: 5 hours ago
+            - article [ref=e63]:
+              - generic [ref=e64]:
+                - heading "Ananya Gupta" [level=3] [ref=e65]
+                - paragraph [ref=e66]: New sign up - Murmur plan
+              - generic [ref=e67]: 1 day ago
+            - article [ref=e68]:
+              - generic [ref=e69]:
+                - heading "Arjun Patel" [level=3] [ref=e70]
+                - paragraph [ref=e71]: Practiced TOGETHER word
+              - generic [ref=e72]: 1 day ago
+    - generic [ref=e74]:
+      - generic [ref=e75]:
+        - generic [ref=e76]:
+          - link "The Switchwords home" [ref=e77] [cursor=pointer]:
+            - /url: /
+            - img [ref=e78]
+            - img [ref=e79]
+            - generic [ref=e80]: theswitchwords
+          - paragraph [ref=e81]: One word. Said softly. Said on purpose.
+          - generic "Social links" [ref=e82]:
+            - link "YouTube" [ref=e83] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e84]
+            - link "Instagram" [ref=e85] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e86]
+        - navigation "Footer navigation" [ref=e87]:
+          - link "About" [ref=e88] [cursor=pointer]:
+            - /url: /about
+          - link "Journal" [ref=e89] [cursor=pointer]:
+            - /url: /journal
+          - link "Pricing" [ref=e90] [cursor=pointer]:
+            - /url: /pricing
+          - link "Contact" [ref=e91] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e92]:
+          - link "@theswitchwords" [ref=e93] [cursor=pointer]:
+            - /url: "#"
+          - link "hello@theswitchwords.com" [ref=e94] [cursor=pointer]:
+            - /url: mailto:hello@theswitchwords.com
+      - generic [ref=e95]:
+        - paragraph [ref=e96]: © 2026 The Switchwords
+        - generic [ref=e97]:
+          - link "Privacy" [ref=e98] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms" [ref=e99] [cursor=pointer]:
+            - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e105] [cursor=pointer]:
+    - img [ref=e106]

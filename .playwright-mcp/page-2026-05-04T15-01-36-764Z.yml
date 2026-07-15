@@ -1,0 +1,132 @@
+- generic [active] [ref=e1]:
+  - button "Open Next.js Dev Tools" [ref=e140] [cursor=pointer]:
+    - img [ref=e141]
+  - alert [ref=e144]
+  - main [ref=e145]:
+    - generic "Main navigation" [ref=e146]:
+      - link "The Switchwords home" [ref=e147] [cursor=pointer]:
+        - /url: /
+        - img [ref=e148]
+        - img [ref=e149]
+        - generic [ref=e150]: theswitchwords
+      - navigation [ref=e151]:
+        - link "Home" [ref=e152] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e153] [cursor=pointer]:
+          - /url: /about
+        - link "Journal" [ref=e154] [cursor=pointer]:
+          - /url: /journal
+        - link "Pricing" [ref=e155] [cursor=pointer]:
+          - /url: /pricing
+        - link "Contact" [ref=e156] [cursor=pointer]:
+          - /url: /contact
+        - link "Account" [ref=e157] [cursor=pointer]:
+          - /url: /signin
+          - img [ref=e158]
+    - region "Your practice" [ref=e159]:
+      - generic [ref=e160]:
+        - generic [ref=e161]:
+          - generic [ref=e162]:
+            - heading "Your practice" [level=1] [ref=e163]
+            - img [ref=e164]
+          - paragraph [ref=e167]: Presence Plan — ₹999/month • Premium Member
+        - link "Logout" [ref=e168] [cursor=pointer]:
+          - /url: /signin
+      - generic [ref=e169]:
+        - complementary [ref=e170]:
+          - navigation "Practice sections" [ref=e171]:
+            - link "Today's Word" [ref=e172] [cursor=pointer]:
+              - /url: /practice
+              - generic [ref=e173]: Today's Word
+            - link "WhatsApp Chat" [ref=e174] [cursor=pointer]:
+              - /url: /practice/whatsapp-chat
+              - generic [ref=e175]: WhatsApp Chat
+            - link "Phone Support" [ref=e176] [cursor=pointer]:
+              - /url: /practice/phone-support
+              - generic [ref=e177]: Phone Support
+            - button "Practice Log" [ref=e178] [cursor=pointer]:
+              - generic [ref=e179]: Practice Log
+            - button "Personal Plan" [ref=e180] [cursor=pointer]:
+              - generic [ref=e181]: Personal Plan
+            - button "Weekly Check-ins" [ref=e182] [cursor=pointer]:
+              - generic [ref=e183]: Weekly Check-ins
+            - button "Settings" [ref=e184] [cursor=pointer]:
+              - generic [ref=e185]: Settings
+          - region "Membership details" [ref=e186]:
+            - img [ref=e187]
+            - heading "Presence Member" [level=2] [ref=e190]
+            - paragraph [ref=e191]: Full access to all premium features including personal support.
+            - list [ref=e192]:
+              - listitem [ref=e193]:
+                - img [ref=e194]
+                - generic [ref=e196]: Unlimited AI Chat
+              - listitem [ref=e197]:
+                - img [ref=e198]
+                - generic [ref=e200]: WhatsApp Support
+              - listitem [ref=e201]:
+                - img [ref=e202]
+                - generic [ref=e204]: Phone/Video Calls
+        - region "Phone & Video Support" [ref=e206]:
+          - heading "Phone & Video Support" [level=2] [ref=e207]
+          - generic [ref=e208]:
+            - article [ref=e209]:
+              - img [ref=e210]
+              - heading "Voice Call" [level=3] [ref=e212]
+              - paragraph [ref=e213]: Speak directly with your practice coach for personalized guidance.
+              - button "Request Voice Call" [ref=e214] [cursor=pointer]
+            - article [ref=e215]:
+              - img [ref=e216]
+              - heading "Video Call" [level=3] [ref=e219]
+              - paragraph [ref=e220]: Face-to-face session to dive deeper into your practice journey.
+              - button "Schedule Video Call" [ref=e221] [cursor=pointer]
+          - region "Support phone number" [ref=e222]:
+            - generic [ref=e223]:
+              - generic [ref=e224]:
+                - paragraph [ref=e225]: Your Support Number
+                - strong [ref=e226]: +91 98765 43210
+                - generic [ref=e227]: Available Mon-Fri, 9 AM - 6 PM IST
+              - link "Call support" [ref=e228] [cursor=pointer]:
+                - /url: tel:+919876543210
+                - img [ref=e229]
+            - generic [ref=e231]:
+              - img [ref=e232]
+              - generic [ref=e235]:
+                - paragraph [ref=e236]: Next Available Slot
+                - generic [ref=e237]: Today, 3:00 PM - 3:30 PM
+    - generic [ref=e239]:
+      - generic [ref=e240]:
+        - generic [ref=e241]:
+          - link "The Switchwords home" [ref=e242] [cursor=pointer]:
+            - /url: /
+            - img [ref=e243]
+            - img [ref=e244]
+            - generic [ref=e245]: theswitchwords
+          - paragraph [ref=e246]: One word. Said softly. Said on purpose.
+          - generic "Social links" [ref=e247]:
+            - link "YouTube" [ref=e248] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e249]
+            - link "Instagram" [ref=e250] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e251]
+        - navigation "Footer navigation" [ref=e252]:
+          - link "About" [ref=e253] [cursor=pointer]:
+            - /url: /about
+          - link "Journal" [ref=e254] [cursor=pointer]:
+            - /url: /journal
+          - link "Pricing" [ref=e255] [cursor=pointer]:
+            - /url: /pricing
+          - link "Contact" [ref=e256] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e257]:
+          - link "@theswitchwords" [ref=e258] [cursor=pointer]:
+            - /url: "#"
+          - link "hello@theswitchwords.com" [ref=e259] [cursor=pointer]:
+            - /url: mailto:hello@theswitchwords.com
+      - generic [ref=e260]:
+        - paragraph [ref=e261]: © 2026 The Switchwords
+        - generic [ref=e262]:
+          - link "Privacy" [ref=e263] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms" [ref=e264] [cursor=pointer]:
+            - /url: "#"

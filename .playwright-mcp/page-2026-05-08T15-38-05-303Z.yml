@@ -1,0 +1,150 @@
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic "Main navigation" [ref=e3]:
+      - link "The Switchwords home" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img [ref=e5]
+        - img [ref=e6]
+        - generic [ref=e7]: theswitchwords
+      - navigation [ref=e8]:
+        - link "Home" [ref=e9] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e10] [cursor=pointer]:
+          - /url: /about
+        - link "Journal" [ref=e11] [cursor=pointer]:
+          - /url: /journal
+        - link "Pricing" [ref=e12] [cursor=pointer]:
+          - /url: /pricing
+        - link "Contact" [ref=e13] [cursor=pointer]:
+          - /url: /contact
+        - link "Account" [ref=e14] [cursor=pointer]:
+          - /url: /signin
+          - img [ref=e15]
+    - region "Yosemite river at morning" [ref=e16]
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - heading "One word. Said softly. Said on purpose." [level=1] [ref=e20]:
+          - generic [ref=e21]: One word.
+          - generic [ref=e22]: Said softly.
+          - generic [ref=e23]: Said on purpose.
+        - paragraph [ref=e24]: The Switchwords is a quiet practice for loud mornings. One switchword each day, carried into the moments that need it. No hype. No chanting marathons. Just a practice that fits inside three minutes.
+      - generic [ref=e25]:
+        - heading "Choose a word" [level=2] [ref=e26]
+        - paragraph [ref=e27]: What are you carrying right now?
+        - generic "Common worries" [ref=e28]:
+          - generic [ref=e29]:
+            - button "Financial stress" [ref=e30] [cursor=pointer]
+            - button "Job insecurity" [ref=e31] [cursor=pointer]
+            - button "Work pressure" [ref=e32] [cursor=pointer]
+          - generic [ref=e33]:
+            - button "Health concerns" [ref=e34] [cursor=pointer]
+            - button "Academic pressure" [ref=e35] [cursor=pointer]
+            - button "Family expectations" [ref=e36] [cursor=pointer]
+            - button "Relationship issues" [ref=e37] [cursor=pointer]
+          - generic [ref=e38]:
+            - button "Social comparison" [ref=e39] [cursor=pointer]
+            - button "Time management issues" [ref=e40] [cursor=pointer]
+            - button "Uncertainty about future" [ref=e41] [cursor=pointer]
+        - link "What is a switchword? →" [ref=e42] [cursor=pointer]:
+          - /url: "#about"
+    - generic [ref=e43]:
+      - heading "If your mornings feel scattered before they've even begun - this is for you." [level=2] [ref=e44]
+      - paragraph [ref=e45]: You open your eyes. Before you've sat up, the list starts. The emails. The money. The conversation you're avoiding. The thing you forgot yesterday. The role you're trying to fill. All of it, landing on you before you've even touched the floor.
+      - paragraph [ref=e46]: You've tried the long morning routines. The journals with seventeen prompts. The affirmations that don't quite land. The meditations that ask for twenty minutes you don't have.
+      - paragraph [ref=e47]: None of it stuck, because none of it fit inside your actual life. This does. One word. Three minutes. That's the whole practice.
+      - paragraph [ref=e48]: One word. Three minutes. That's the whole practice.
+    - generic [ref=e49]:
+      - paragraph [ref=e50]: What you get here
+      - generic [ref=e51]:
+        - article [ref=e52]:
+          - heading "A word, every morning" [level=3] [ref=e54]
+          - paragraph [ref=e55]: One switchword for the specific ache you're carrying. Delivered when you need it, not when it's convenient for a content calendar.
+        - article [ref=e56]:
+          - heading "A method that fits your actual life" [level=3] [ref=e58]
+          - paragraph [ref=e59]: Three whispers. Three minutes. No candles required. No special cushion. No app subscription. Just a word you can carry with you.
+        - article [ref=e60]:
+          - heading "A practice, not a belief" [level=3] [ref=e62]
+          - paragraph [ref=e63]: You don't have to believe switchwords work. You just have to try them. If they help, keep going. If they don't, move on. No cosmic commitment required.
+    - generic [ref=e64]:
+      - paragraph [ref=e65]: Seven words. Seven aches. Seven mornings.
+      - generic [ref=e66]:
+        - article [ref=e67]:
+          - heading "TOGETHER" [level=3] [ref=e68]
+          - paragraph [ref=e69]: For the mornings that feel scattered
+        - article [ref=e70]:
+          - heading "DIVINE-ORDER" [level=3] [ref=e71]
+          - paragraph [ref=e72]: For when the day is too much
+        - article [ref=e73]:
+          - heading "COUNT" [level=3] [ref=e74]
+          - paragraph [ref=e75]: For the flinch before checking money
+        - article [ref=e76]:
+          - heading "REACH" [level=3] [ref=e77]
+          - paragraph [ref=e78]: For the conversation you've been avoiding
+        - article [ref=e79]:
+          - heading "BE" [level=3] [ref=e80]
+          - paragraph [ref=e81]: For the day you've been trying to earn
+        - article [ref=e82]:
+          - heading "GIVE" [level=3] [ref=e83]
+          - paragraph [ref=e84]: For the tight resentment you carry
+        - article [ref=e85]:
+          - heading "FIND" [level=3] [ref=e86]
+          - paragraph [ref=e87]: For the uncertainty you've been hiding
+    - generic [ref=e89]:
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - link "The Switchwords home" [ref=e92] [cursor=pointer]:
+            - /url: /
+            - img [ref=e93]
+            - img [ref=e94]
+            - generic [ref=e95]: theswitchwords
+          - paragraph [ref=e96]: One word. Said softly. Said on purpose.
+          - generic "Social links" [ref=e97]:
+            - link "YouTube" [ref=e98] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e99]
+            - link "Instagram" [ref=e100] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e101]
+        - navigation "Footer navigation" [ref=e102]:
+          - link "About" [ref=e103] [cursor=pointer]:
+            - /url: /about
+          - link "Journal" [ref=e104] [cursor=pointer]:
+            - /url: /journal
+          - link "Pricing" [ref=e105] [cursor=pointer]:
+            - /url: /pricing
+          - link "Contact" [ref=e106] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e107]:
+          - link "@theswitchwords" [ref=e108] [cursor=pointer]:
+            - /url: "#"
+          - link "hello@theswitchwords.com" [ref=e109] [cursor=pointer]:
+            - /url: mailto:hello@theswitchwords.com
+      - generic [ref=e110]:
+        - paragraph [ref=e111]: © 2026 The Switchwords
+        - generic [ref=e112]:
+          - link "Privacy" [ref=e113] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms" [ref=e114] [cursor=pointer]:
+            - /url: "#"
+    - generic:
+      - button "Close Switchwords chatbot" [expanded] [ref=e118] [cursor=pointer]:
+        - img [ref=e116]
+      - dialog "Switchwords guide" [ref=e119]:
+        - generic [ref=e120]:
+          - generic [ref=e123]:
+            - strong [ref=e124]: Switchwords guide
+            - generic [ref=e125]: 2 free messages left
+          - button "Close chat" [ref=e126] [cursor=pointer]:
+            - img [ref=e127]
+        - generic [ref=e129]:
+          - paragraph [ref=e132]: I can help you understand switchwords, find the right word for what you're carrying, or explain how the practice works. What would be most helpful right now?
+          - generic "Suggested questions" [ref=e133]:
+            - button "What's a switchword?" [ref=e134] [cursor=pointer]
+            - button "Depression" [ref=e135] [cursor=pointer]
+            - button "Financial stress" [ref=e136] [cursor=pointer]
+        - generic [ref=e137]:
+          - textbox [active] [ref=e139]:
+            - /placeholder: Tell me what you're carrying right now
+          - button "Send message" [disabled] [ref=e140]:
+            - img [ref=e141]
+  - alert [ref=e117]

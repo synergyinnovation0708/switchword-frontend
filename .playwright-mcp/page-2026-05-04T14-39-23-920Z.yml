@@ -1,0 +1,132 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic "Main navigation" [ref=e3]:
+      - link "The Switchwords home" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img [ref=e5]
+        - img [ref=e6]
+        - generic [ref=e7]: theswitchwords
+      - navigation [ref=e8]:
+        - link "Home" [ref=e9] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e10] [cursor=pointer]:
+          - /url: /about
+        - link "Journal" [ref=e11] [cursor=pointer]:
+          - /url: /journal
+        - link "Pricing" [ref=e12] [cursor=pointer]:
+          - /url: /pricing
+        - link "Contact" [ref=e13] [cursor=pointer]:
+          - /url: /contact
+        - link "Account" [ref=e14] [cursor=pointer]:
+          - /url: /signin
+          - img [ref=e15]
+    - generic [ref=e16]:
+      - link "← Back to plans" [ref=e17] [cursor=pointer]:
+        - /url: /pricing
+      - heading "Complete your subscription" [level=1] [ref=e18]
+      - region "Presence checkout" [ref=e19]:
+        - generic [ref=e21]:
+          - region "Your details" [ref=e22]:
+            - heading "Your details" [level=2] [ref=e23]
+            - generic [ref=e24]:
+              - generic [ref=e25]:
+                - generic [ref=e26]: Full name
+                - textbox "Full name" [ref=e27]
+              - generic [ref=e28]:
+                - generic [ref=e29]: Email address
+                - textbox "Email address" [ref=e30]
+          - region "Payment details" [ref=e31]:
+            - heading "Payment details" [level=2] [ref=e32]
+            - generic [ref=e33]:
+              - generic [ref=e34]:
+                - generic [ref=e35]: Card number
+                - textbox "Card number" [ref=e36]:
+                  - /placeholder: 1234 5678 9012 3456
+              - generic [ref=e37]:
+                - generic [ref=e38]:
+                  - generic [ref=e39]: Expiry
+                  - textbox "Expiry" [ref=e40]:
+                    - /placeholder: MM/YY
+                - generic [ref=e41]:
+                  - generic [ref=e42]: CVV
+                  - textbox "CVV" [ref=e43]:
+                    - /placeholder: "123"
+          - button "Start subscription — ₹999/month" [ref=e44] [cursor=pointer]
+          - paragraph [ref=e45]: By subscribing, you agree to our Terms of Service and Privacy Policy
+        - complementary "Order summary" [ref=e46]:
+          - heading "Order summary" [level=2] [ref=e47]
+          - generic [ref=e48]:
+            - generic [ref=e49]:
+              - heading "Presence" [level=3] [ref=e50]
+              - paragraph [ref=e51]: Monthly subscription
+            - paragraph [ref=e52]: ₹999
+          - region "What's included:" [ref=e53]:
+            - heading "What's included:" [level=4] [ref=e54]
+            - list [ref=e55]:
+              - listitem [ref=e56]:
+                - generic [ref=e57]: ✓
+                - generic [ref=e58]: Personalized daily word via email
+              - listitem [ref=e59]:
+                - generic [ref=e60]: ✓
+                - generic [ref=e61]: Practice tracking dashboard
+              - listitem [ref=e62]:
+                - generic [ref=e63]: ✓
+                - generic [ref=e64]: AI chat support (2 messages/day)
+              - listitem [ref=e65]:
+                - generic [ref=e66]: ✓
+                - generic [ref=e67]: Monthly reflection prompts
+          - generic [ref=e68]:
+            - generic [ref=e69]:
+              - generic [ref=e70]: Subtotal
+              - strong [ref=e71]: ₹999
+            - generic [ref=e72]:
+              - generic [ref=e73]: Tax
+              - strong [ref=e74]: ₹0
+            - generic [ref=e75]:
+              - generic [ref=e76]: Total today
+              - strong [ref=e77]: ₹999
+            - paragraph [ref=e78]: Billed monthly. You'll be charged ₹399 today, then every month on this date. Cancel anytime.
+          - generic [ref=e79]:
+            - img [ref=e80]
+            - paragraph [ref=e82]:
+              - strong [ref=e83]: 14-day refund guarantee.
+              - text: If this doesn't fit your practice, email us within 14 days for a full refund.
+    - generic [ref=e85]:
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - link "The Switchwords home" [ref=e88] [cursor=pointer]:
+            - /url: /
+            - img [ref=e89]
+            - img [ref=e90]
+            - generic [ref=e91]: theswitchwords
+          - paragraph [ref=e92]: One word. Said softly. Said on purpose.
+          - generic "Social links" [ref=e93]:
+            - link "YouTube" [ref=e94] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e95]
+            - link "Instagram" [ref=e96] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e97]
+        - navigation "Footer navigation" [ref=e98]:
+          - link "About" [ref=e99] [cursor=pointer]:
+            - /url: /about
+          - link "Journal" [ref=e100] [cursor=pointer]:
+            - /url: /journal
+          - link "Pricing" [ref=e101] [cursor=pointer]:
+            - /url: /pricing
+          - link "Contact" [ref=e102] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e103]:
+          - link "@theswitchwords" [ref=e104] [cursor=pointer]:
+            - /url: "#"
+          - link "hello@theswitchwords.com" [ref=e105] [cursor=pointer]:
+            - /url: mailto:hello@theswitchwords.com
+      - generic [ref=e106]:
+        - paragraph [ref=e107]: © 2026 The Switchwords
+        - generic [ref=e108]:
+          - link "Privacy" [ref=e109] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms" [ref=e110] [cursor=pointer]:
+            - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e116] [cursor=pointer]:
+    - img [ref=e117]

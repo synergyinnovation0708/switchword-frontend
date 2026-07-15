@@ -1,0 +1,108 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic "Main navigation" [ref=e3]:
+      - link "The Switchwords home" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img [ref=e5]
+        - img [ref=e6]
+        - generic [ref=e7]: theswitchwords
+      - navigation [ref=e8]:
+        - link "Home" [ref=e9] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e10] [cursor=pointer]:
+          - /url: /about
+        - link "Journal" [ref=e11] [cursor=pointer]:
+          - /url: /journal
+        - link "Pricing" [ref=e12] [cursor=pointer]:
+          - /url: /pricing
+        - link "Contact" [ref=e13] [cursor=pointer]:
+          - /url: /contact
+        - link "Account" [ref=e14] [cursor=pointer]:
+          - /url: /signin
+          - img [ref=e15]
+    - region "Your practice" [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - heading "Your practice" [level=1] [ref=e19]
+          - paragraph [ref=e20]: Whisper Plan (₹19/month)
+        - link "Logout" [ref=e21] [cursor=pointer]:
+          - /url: /signin
+      - generic [ref=e22]:
+        - region "Your resources" [ref=e23]:
+          - heading "Your resources" [level=2] [ref=e24]
+          - generic [ref=e25]:
+            - article [ref=e26]:
+              - img [ref=e27]
+              - generic [ref=e29]:
+                - heading "The 7-Day Whisper PDF" [level=3] [ref=e30]
+                - paragraph [ref=e31]: Seven switchwords for seven mornings. Your guide to the practice.
+                - button "Download PDF→" [ref=e32] [cursor=pointer]
+            - article [ref=e33]:
+              - img [ref=e34]
+              - generic [ref=e37]:
+                - heading "Weekly Newsletter" [level=3] [ref=e38]
+                - paragraph [ref=e39]: You receive one word each week via email
+                - generic [ref=e40]: "Next email: Monday, 7:00 AM"
+            - article [ref=e41]:
+              - img [ref=e42]
+              - generic [ref=e45]:
+                - heading "Practice Tracking" [level=3] [ref=e46]
+                - paragraph [ref=e47]: Track your daily practice and build streaks
+                - link "Upgrade to unlock→" [ref=e48] [cursor=pointer]:
+                  - /url: /pricing
+              - generic [ref=e49]: Murmur
+        - complementary "Ready for more?" [ref=e50]:
+          - img [ref=e51]
+          - heading "Ready for more?" [level=2] [ref=e53]
+          - paragraph [ref=e54]: Get personalized daily words, practice tracking, AI support, and more.
+          - list [ref=e55]:
+            - listitem [ref=e56]:
+              - img [ref=e57]
+              - generic [ref=e59]: Daily personalized word
+            - listitem [ref=e60]:
+              - img [ref=e61]
+              - generic [ref=e63]: Practice tracking & streaks
+            - listitem [ref=e64]:
+              - img [ref=e65]
+              - generic [ref=e67]: AI chat guidance
+          - link "View Plans" [ref=e68] [cursor=pointer]:
+            - /url: /pricing
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - link "The Switchwords home" [ref=e73] [cursor=pointer]:
+            - /url: /
+            - img [ref=e74]
+            - img [ref=e75]
+            - generic [ref=e76]: theswitchwords
+          - paragraph [ref=e77]: One word. Said softly. Said on purpose.
+          - generic "Social links" [ref=e78]:
+            - link "YouTube" [ref=e79] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e80]
+            - link "Instagram" [ref=e81] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e82]
+        - navigation "Footer navigation" [ref=e83]:
+          - link "About" [ref=e84] [cursor=pointer]:
+            - /url: /about
+          - link "Journal" [ref=e85] [cursor=pointer]:
+            - /url: /journal
+          - link "Pricing" [ref=e86] [cursor=pointer]:
+            - /url: /pricing
+          - link "Contact" [ref=e87] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e88]:
+          - link "@theswitchwords" [ref=e89] [cursor=pointer]:
+            - /url: "#"
+          - link "hello@theswitchwords.com" [ref=e90] [cursor=pointer]:
+            - /url: mailto:hello@theswitchwords.com
+      - generic [ref=e91]:
+        - paragraph [ref=e92]: © 2026 The Switchwords
+        - generic [ref=e93]:
+          - link "Privacy" [ref=e94] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms" [ref=e95] [cursor=pointer]:
+            - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=e101] [cursor=pointer]:
+    - img [ref=e102]

@@ -1,0 +1,328 @@
+- main [ref=e2]:
+  - generic [ref=e4]:
+    - link "Singh Agro Agencies home" [ref=e5] [cursor=pointer]:
+      - /url: "#top"
+      - img "Singh Agro Agencies logo" [ref=e6]
+    - navigation "Primary" [ref=e7]:
+      - link "Our Products" [ref=e8] [cursor=pointer]:
+        - /url: "#products"
+      - link "Why Us" [ref=e9] [cursor=pointer]:
+        - /url: "#why-us"
+      - link "Awards" [ref=e10] [cursor=pointer]:
+        - /url: "#awards"
+      - link "Contact Us" [ref=e11] [cursor=pointer]:
+        - /url: "#contact"
+    - link "Call for Details" [ref=e12] [cursor=pointer]:
+      - /url: tel:+91999988102
+      - img [ref=e13]
+      - generic [ref=e15]: Call for Details
+  - generic [ref=e17]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: Pride of Gopalganj Since 1995
+      - heading "Power Backup Solutions You Trust" [level=1] [ref=e21]:
+        - generic [ref=e22]: Power Backup
+        - generic [ref=e23]: Solutions You Trust
+      - paragraph [ref=e24]: Gopalganj's trusted destination for Batteries, Inverters, RO, ACs, and home appliances backed by reliable after-sale service.
+      - link "Call for Details" [ref=e26] [cursor=pointer]:
+        - /url: tel:+91999988102
+        - img [ref=e27]
+        - generic [ref=e29]: Call for Details
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - generic [ref=e32]: 30+
+          - generic [ref=e33]: Years Experience
+        - generic [ref=e34]:
+          - generic [ref=e35]: 60K+
+          - generic [ref=e36]: Happy Customers
+        - generic [ref=e37]:
+          - generic [ref=e38]: 30+
+          - generic [ref=e39]: Awards
+        - generic [ref=e40]:
+          - generic [ref=e41]: 20+
+          - generic [ref=e42]: Top Brands
+    - generic [ref=e43]:
+      - generic "Customer review highlights" [ref=e44]:
+        - article [ref=e45]:
+          - img "Google review logo" [ref=e46]
+          - generic [ref=e47]:
+            - generic [ref=e48]: ★
+            - generic [ref=e49]: ★
+            - generic [ref=e50]: ★
+            - generic [ref=e51]: ★
+            - generic [ref=e52]: ★
+          - paragraph [ref=e53]: 236 Reviews
+        - article [ref=e54]:
+          - img "Justdial review logo" [ref=e55]
+          - generic [ref=e56]:
+            - generic [ref=e57]: ★
+            - generic [ref=e58]: ★
+            - generic [ref=e59]: ★
+            - generic [ref=e60]: ★
+            - generic [ref=e61]: ★
+          - paragraph [ref=e62]: 475 Ratings
+      - img "Power backup products and home appliances sold by Singh Agro Agencies" [ref=e64]
+  - generic [ref=e66]:
+    - generic [ref=e67]:
+      - heading "Our Products" [level=2] [ref=e68]
+      - paragraph [ref=e69]: Complete range of power and electronics solutions with genuine warranty and expert support
+    - generic [ref=e70]:
+      - article [ref=e71]:
+        - img [ref=e73]
+        - heading "Inverter" [level=3] [ref=e75]
+        - paragraph [ref=e76]: Microtek UPS 1150VA, Luminous Zelio 1100, Sukam Inverter. 600VA to 3KVA pure sine wave inverters for home and office backup.
+        - link "Enquire on WhatsApp" [ref=e77] [cursor=pointer]:
+          - /url: https://wa.me/91999988102?text=Hello%20Singh%20Agro%20Agencies%2C%20I%20would%20like%20to%20know%20more%20about%20Inverter.
+          - img [ref=e78]
+          - generic [ref=e81]: Enquire on WhatsApp
+      - article [ref=e82]:
+        - img [ref=e84]
+        - heading "Batteries" [level=3] [ref=e87]
+        - paragraph [ref=e88]: Exide Inva Master, Luminous RC 18000, Amaron Inverter Batteries. 150Ah-220Ah tubular batteries with 24-36 month warranty.
+        - link "Enquire on WhatsApp" [ref=e89] [cursor=pointer]:
+          - /url: https://wa.me/91999988102?text=Hello%20Singh%20Agro%20Agencies%2C%20I%20would%20like%20to%20know%20more%20about%20Batteries.
+          - img [ref=e90]
+          - generic [ref=e93]: Enquire on WhatsApp
+      - article [ref=e94]:
+        - img [ref=e96]
+        - heading "UPS" [level=3] [ref=e99]
+        - paragraph [ref=e100]: Microtek UPS 1150, APC 1KVA, Luminous UPS. Uninterrupted power supply for computers and sensitive equipment with surge protection.
+        - link "Enquire on WhatsApp" [ref=e101] [cursor=pointer]:
+          - /url: https://wa.me/91999988102?text=Hello%20Singh%20Agro%20Agencies%2C%20I%20would%20like%20to%20know%20more%20about%20UPS.
+          - img [ref=e102]
+          - generic [ref=e105]: Enquire on WhatsApp
+      - article [ref=e106]:
+        - img [ref=e108]
+        - heading "RO" [level=3] [ref=e111]
+        - paragraph [ref=e112]: Kent Grand Plus, V-Guard Zenora RO+UV+UF. 7-stage purification system with 7-10L storage and TDS controller for safe drinking water.
+        - link "Enquire on WhatsApp" [ref=e113] [cursor=pointer]:
+          - /url: https://wa.me/91999988102?text=Hello%20Singh%20Agro%20Agencies%2C%20I%20would%20like%20to%20know%20more%20about%20RO.
+          - img [ref=e114]
+          - generic [ref=e117]: Enquire on WhatsApp
+      - article [ref=e118]:
+        - img [ref=e120]
+        - heading "AC" [level=3] [ref=e123]
+        - paragraph [ref=e124]: Voltas 1.5 Ton, Blue Star 1 Ton, Lloyd Inverter AC. Split and window air conditioners with 5-star energy rating and free installation.
+        - link "Enquire on WhatsApp" [ref=e125] [cursor=pointer]:
+          - /url: https://wa.me/91999988102?text=Hello%20Singh%20Agro%20Agencies%2C%20I%20would%20like%20to%20know%20more%20about%20AC.
+          - img [ref=e126]
+          - generic [ref=e129]: Enquire on WhatsApp
+      - article [ref=e130]:
+        - img [ref=e132]
+        - heading "Cooler" [level=3] [ref=e138]
+        - paragraph [ref=e139]: Symphony, Bajaj, Orient desert and tower coolers. Energy-efficient summer cooling solutions for homes and offices with ice chamber.
+        - link "Enquire on WhatsApp" [ref=e140] [cursor=pointer]:
+          - /url: https://wa.me/91999988102?text=Hello%20Singh%20Agro%20Agencies%2C%20I%20would%20like%20to%20know%20more%20about%20Cooler.
+          - img [ref=e141]
+          - generic [ref=e144]: Enquire on WhatsApp
+      - article [ref=e145]:
+        - img [ref=e147]
+        - heading "Bike Batteries" [level=3] [ref=e152]
+        - paragraph [ref=e153]: Exide VRLA 3Ah-9Ah, Amaron Pro Rider, Livfast. Maintenance-free batteries for all two-wheeler models with quick replacement service.
+        - link "Enquire on WhatsApp" [ref=e154] [cursor=pointer]:
+          - /url: https://wa.me/91999988102?text=Hello%20Singh%20Agro%20Agencies%2C%20I%20would%20like%20to%20know%20more%20about%20Bike%20Batteries.
+          - img [ref=e155]
+          - generic [ref=e158]: Enquire on WhatsApp
+      - article [ref=e159]:
+        - img [ref=e161]
+        - heading "Car Batteries" [level=3] [ref=e167]
+        - paragraph [ref=e168]: Amaron Go 35Ah-65Ah, Exide FML0, SF Sonic. Premium automotive batteries for all car models with 36-48 month warranty.
+        - link "Enquire on WhatsApp" [ref=e169] [cursor=pointer]:
+          - /url: https://wa.me/91999988102?text=Hello%20Singh%20Agro%20Agencies%2C%20I%20would%20like%20to%20know%20more%20about%20Car%20Batteries.
+          - img [ref=e170]
+          - generic [ref=e173]: Enquire on WhatsApp
+      - article [ref=e174]:
+        - img [ref=e176]
+        - heading "Tractor & Truck Batteries" [level=3] [ref=e181]
+        - paragraph [ref=e182]: Amaron Pro 65Ah-88Ah, Exide Tractor Battery. Heavy-duty batteries for tractors and commercial vehicles with extra power.
+        - link "Enquire on WhatsApp" [ref=e183] [cursor=pointer]:
+          - /url: https://wa.me/91999988102?text=Hello%20Singh%20Agro%20Agencies%2C%20I%20would%20like%20to%20know%20more%20about%20Tractor%20%26%20Truck%20Batteries.
+          - img [ref=e184]
+          - generic [ref=e187]: Enquire on WhatsApp
+  - generic [ref=e189]:
+    - generic [ref=e190]:
+      - generic [ref=e191]: Authorised Dealer & Distributor
+      - heading "Trusted Brand Partners" [level=2] [ref=e192]
+      - paragraph [ref=e193]: Authorized Dealer for India's leading electronics and battery brands
+    - generic [ref=e194]:
+      - generic [ref=e195]:
+        - img "Exide logo"
+      - generic [ref=e196]:
+        - img "Amaron logo"
+      - generic [ref=e197]:
+        - img "Tata Green Batteries logo"
+      - generic [ref=e198]:
+        - img "Luminous logo"
+      - generic [ref=e199]:
+        - img "Microtek logo"
+      - generic [ref=e200]:
+        - img "Su-Kam logo"
+      - generic [ref=e201]:
+        - img "Livfast logo"
+      - generic [ref=e202]:
+        - img "Kent Mineral RO logo"
+      - generic [ref=e203]:
+        - img "V-Guard logo"
+      - generic [ref=e204]:
+        - img "Eastman logo"
+      - generic [ref=e205]:
+        - img "Jaquar logo"
+      - generic [ref=e206]:
+        - img "Tata Power logo"
+      - generic [ref=e207]:
+        - img "Blue Star logo"
+      - generic [ref=e208]:
+        - img "Symphony logo"
+      - generic [ref=e209]:
+        - img "Voltas logo"
+    - paragraph [ref=e210]:
+      - text: All products come with
+      - strong [ref=e211]: genuine manufacturer warranty
+      - text: and certified parts.
+  - generic [ref=e213]:
+    - generic [ref=e214]:
+      - heading "Why Choose Us?" [level=2] [ref=e215]
+      - paragraph [ref=e216]: Three decades of putting customers first with quality products and reliable service
+    - generic [ref=e217]:
+      - article [ref=e218]:
+        - img [ref=e220]
+        - heading "30+ Years Experience" [level=3] [ref=e223]
+        - paragraph [ref=e224]: Established in 1995, serving Gopalganj with trust and excellence for three decades.
+      - article [ref=e225]:
+        - img [ref=e227]
+        - heading "Made in India Products" [level=3] [ref=e229]
+        - paragraph [ref=e230]: Every product is brand-authorised with full manufacturer warranty and genuine parts.
+      - article [ref=e231]:
+        - img [ref=e233]
+        - heading "Best After-Sale Service" [level=3] [ref=e237]
+        - paragraph [ref=e238]: Dedicated support team with certified technicians for quick service and maintenance.
+      - article [ref=e239]:
+        - img [ref=e241]
+        - heading "Flexible Payment Options" [level=3] [ref=e244]
+        - paragraph [ref=e245]: Cash, card, UPI, and easy EMI plans available. Quality products within your budget.
+      - article [ref=e246]:
+        - img [ref=e248]
+        - heading "Fast Response Time" [level=3] [ref=e251]
+        - paragraph [ref=e252]: Same-day delivery on most products. Quick installation and service support.
+      - article [ref=e253]:
+        - img [ref=e255]
+        - heading "60,000+ Happy Customers" [level=3] [ref=e260]
+        - paragraph [ref=e261]: Trusted by families and businesses across Gopalganj and surrounding areas.
+      - article [ref=e262]:
+        - img [ref=e264]
+        - heading "Free Home Delivery" [level=3] [ref=e268]
+        - paragraph [ref=e269]: Complimentary doorstep delivery on all products. Safe, fast and hassle-free delivery service.
+      - article [ref=e270]:
+        - img [ref=e272]
+        - heading "Jump Start Service" [level=3] [ref=e274]
+        - paragraph [ref=e275]: Emergency jump start service for cars and vehicles. Quick assistance when you need it most.
+  - generic [ref=e277]:
+    - img [ref=e278]
+    - paragraph [ref=e279]: 30+
+    - heading "Industry Awards" [level=2] [ref=e280]
+    - paragraph [ref=e281]: Recognized by Exide, Amaron, Luminous, V-Guard, Microtek and other leading brands for outstanding sales and service excellence
+    - generic [ref=e282]:
+      - generic [ref=e283]: Exide
+      - generic [ref=e284]: Amaron
+      - generic [ref=e285]: Luminous
+      - generic [ref=e286]: V-Guard
+      - generic [ref=e287]: Microtek
+    - img "Wall of Fame awards and recognition at Singh Agro Agencies" [ref=e289]
+  - generic [ref=e291]:
+    - generic [ref=e292]:
+      - heading "Payment Options" [level=2] [ref=e293]
+      - paragraph [ref=e294]: Multiple payment methods for your convenience
+    - generic [ref=e295]:
+      - article [ref=e296]:
+        - img [ref=e298]
+        - heading "Cash" [level=3] [ref=e301]
+        - paragraph [ref=e302]: Pay in cash at store
+      - article [ref=e303]:
+        - img [ref=e305]
+        - heading "Credit Card" [level=3] [ref=e307]
+        - paragraph [ref=e308]: All cards accepted
+      - article [ref=e309]:
+        - img [ref=e311]
+        - heading "UPI" [level=3] [ref=e313]
+        - paragraph [ref=e314]: GPay, PhonePe, Paytm
+      - article [ref=e315]:
+        - img [ref=e317]
+        - heading "Pine Labs" [level=3] [ref=e321]
+        - paragraph [ref=e322]: All Credit Card Accepted with EMI Options
+      - article [ref=e323]:
+        - img [ref=e325]
+        - heading "Bajaj Finance" [level=3] [ref=e328]
+        - paragraph [ref=e329]: No cost EMI
+  - generic [ref=e331]:
+    - generic [ref=e332]:
+      - heading "Visit or Call Us" [level=2] [ref=e333]
+      - paragraph [ref=e334]: Expert advice & fast service — ready to help you anytime
+    - generic [ref=e335]:
+      - article [ref=e336]:
+        - generic [ref=e337]:
+          - generic [ref=e338]:
+            - img [ref=e340]
+            - generic [ref=e342]:
+              - generic [ref=e343]: Sales
+              - generic [ref=e344]: Call Now
+          - link "+91 91999 88102" [ref=e345] [cursor=pointer]:
+            - /url: tel:+91999988102
+        - generic [ref=e346]:
+          - generic [ref=e347]:
+            - img [ref=e349]
+            - generic [ref=e351]:
+              - generic [ref=e352]: Service
+              - generic [ref=e353]: Call Now
+          - link "+91 80027 76825" [ref=e354] [cursor=pointer]:
+            - /url: tel:+918002776825
+      - article [ref=e355]:
+        - generic [ref=e356]:
+          - img [ref=e358]
+          - generic [ref=e361]:
+            - generic [ref=e362]: Our Location
+            - generic [ref=e363]: Visit Our Store
+        - generic [ref=e364]:
+          - strong [ref=e365]: Singh Agro Agencies
+          - generic [ref=e366]: In Front of Bus Stand, Thawe Road
+          - generic [ref=e367]: Gopalganj, Bihar — 841428
+        - generic [ref=e368]:
+          - img [ref=e369]
+          - generic [ref=e372]:
+            - paragraph [ref=e373]: Business Hours
+            - paragraph [ref=e374]: "Everyday: 9:00 am to 8:00 pm"
+  - generic [ref=e375]:
+    - generic [ref=e376]:
+      - generic [ref=e377]:
+        - paragraph [ref=e378]: Singh Agro Agencies
+        - paragraph [ref=e379]: Pride of Gopalganj
+        - paragraph [ref=e380]: Your trusted partner for power and electronics solutions since 1995. Serving Gopalganj with quality products and reliable service.
+      - generic [ref=e381]:
+        - paragraph [ref=e382]: Quick Links
+        - generic [ref=e383]:
+          - link "Products" [ref=e384] [cursor=pointer]:
+            - /url: "#products"
+          - link "Brands" [ref=e385] [cursor=pointer]:
+            - /url: "#brands"
+          - link "Why Choose Us" [ref=e386] [cursor=pointer]:
+            - /url: "#why-us"
+          - link "Contact" [ref=e387] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=e388]:
+          - img "Facebook icon" [ref=e389]:
+            - img [ref=e390]
+          - img "Instagram icon" [ref=e392]:
+            - img [ref=e393]
+      - generic [ref=e396]:
+        - paragraph [ref=e397]: Contact Info
+        - generic [ref=e398]:
+          - paragraph [ref=e399]: In Front of Bus Stand, Thawe Road
+          - paragraph [ref=e400]: Gopalganj, Bihar — 841428
+          - link "+91 91999 88102" [ref=e401] [cursor=pointer]:
+            - /url: tel:+91999988102
+          - link "singh.agro.agencies@gmail.com" [ref=e402] [cursor=pointer]:
+            - /url: mailto:singh.agro.agencies@gmail.com
+    - generic [ref=e403]:
+      - paragraph [ref=e404]: © 2026 Singh Agro Agencies. All rights reserved.
+      - generic [ref=e405]:
+        - generic [ref=e406]: Authorised Dealer
+        - generic [ref=e407]: •
+        - generic [ref=e408]: Established 1995

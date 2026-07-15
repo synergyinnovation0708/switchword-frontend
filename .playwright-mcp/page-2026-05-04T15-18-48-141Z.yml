@@ -1,0 +1,140 @@
+- generic [active] [ref=e1]:
+  - button "Open Next.js Dev Tools" [ref=e140] [cursor=pointer]:
+    - img [ref=e141]
+  - alert [ref=e144]
+  - main [ref=e145]:
+    - generic "Main navigation" [ref=e146]:
+      - link "The Switchwords home" [ref=e147] [cursor=pointer]:
+        - /url: /
+        - img [ref=e148]
+        - img [ref=e149]
+        - generic [ref=e150]: theswitchwords
+      - navigation [ref=e151]:
+        - link "Home" [ref=e152] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e153] [cursor=pointer]:
+          - /url: /about
+        - link "Journal" [ref=e154] [cursor=pointer]:
+          - /url: /journal
+        - link "Pricing" [ref=e155] [cursor=pointer]:
+          - /url: /pricing
+        - link "Contact" [ref=e156] [cursor=pointer]:
+          - /url: /contact
+        - link "Account" [ref=e157] [cursor=pointer]:
+          - /url: /signin
+          - img [ref=e158]
+    - region "Your practice" [ref=e159]:
+      - generic [ref=e160]:
+        - generic [ref=e161]:
+          - generic [ref=e162]:
+            - heading "Your practice" [level=1] [ref=e163]
+            - img [ref=e164]
+          - paragraph [ref=e167]: Presence Plan — ₹999/month • Premium Member
+        - link "Logout" [ref=e168] [cursor=pointer]:
+          - /url: /signin
+      - generic [ref=e169]:
+        - complementary [ref=e170]:
+          - navigation "Practice sections" [ref=e171]:
+            - link "Today's Word" [ref=e172] [cursor=pointer]:
+              - /url: /practice
+              - generic [ref=e173]: Today's Word
+            - link "WhatsApp Chat" [ref=e174] [cursor=pointer]:
+              - /url: /practice/whatsapp-chat
+              - generic [ref=e175]: WhatsApp Chat
+            - link "Phone Support" [ref=e176] [cursor=pointer]:
+              - /url: /practice/phone-support
+              - generic [ref=e177]: Phone Support
+            - link "Practice Log" [ref=e178] [cursor=pointer]:
+              - /url: /practice/practice-log
+              - generic [ref=e179]: Practice Log
+            - link "Personal Plan" [ref=e180] [cursor=pointer]:
+              - /url: /practice/personal-plan
+              - generic [ref=e181]: Personal Plan
+            - link "Weekly Check-ins" [ref=e182] [cursor=pointer]:
+              - /url: /practice/weekly-check-ins
+              - generic [ref=e183]: Weekly Check-ins
+            - link "Settings" [ref=e184] [cursor=pointer]:
+              - /url: /practice/settings
+              - generic [ref=e185]: Settings
+          - region "Membership details" [ref=e186]:
+            - img [ref=e187]
+            - heading "Presence Member" [level=2] [ref=e190]
+            - paragraph [ref=e191]: Full access to all premium features including personal support.
+            - list [ref=e192]:
+              - listitem [ref=e193]:
+                - img [ref=e194]
+                - generic [ref=e196]: Unlimited AI Chat
+              - listitem [ref=e197]:
+                - img [ref=e198]
+                - generic [ref=e200]: WhatsApp Support
+              - listitem [ref=e201]:
+                - img [ref=e202]
+                - generic [ref=e204]: Phone/Video Calls
+        - region "Delivery & Communication Preferences" [ref=e206]:
+          - heading "Delivery & Communication Preferences" [level=2] [ref=e207]
+          - generic [ref=e208]:
+            - generic [ref=e209]:
+              - generic [ref=e210]:
+                - img [ref=e211]
+                - generic [ref=e214]:
+                  - paragraph [ref=e215]: Email delivery
+                  - generic [ref=e216]: Daily word at 7:00 AM
+              - button "Email delivery enabled" [pressed] [ref=e217] [cursor=pointer]
+            - generic [ref=e220]:
+              - generic [ref=e221]:
+                - img [ref=e222]
+                - generic [ref=e224]:
+                  - paragraph [ref=e225]: WhatsApp delivery
+                  - generic [ref=e226]: Daily word at 7:00 AM
+              - button "WhatsApp delivery enabled" [pressed] [ref=e227] [cursor=pointer]
+          - region "Contact Information" [ref=e230]:
+            - heading "Contact Information" [level=3] [ref=e231]
+            - generic [ref=e232]:
+              - generic [ref=e233]:
+                - term [ref=e234]: WhatsApp Number
+                - definition [ref=e235]: +91 98765 43210
+              - generic [ref=e236]:
+                - term [ref=e237]: Email
+                - definition [ref=e238]: user@example.com
+            - button "Edit contact info →" [ref=e239] [cursor=pointer]
+          - generic [ref=e240]:
+            - link "View all plans" [ref=e241] [cursor=pointer]:
+              - /url: /pricing
+            - button "Cancel subscription" [ref=e242] [cursor=pointer]
+    - generic [ref=e244]:
+      - generic [ref=e245]:
+        - generic [ref=e246]:
+          - link "The Switchwords home" [ref=e247] [cursor=pointer]:
+            - /url: /
+            - img [ref=e248]
+            - img [ref=e249]
+            - generic [ref=e250]: theswitchwords
+          - paragraph [ref=e251]: One word. Said softly. Said on purpose.
+          - generic "Social links" [ref=e252]:
+            - link "YouTube" [ref=e253] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e254]
+            - link "Instagram" [ref=e255] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e256]
+        - navigation "Footer navigation" [ref=e257]:
+          - link "About" [ref=e258] [cursor=pointer]:
+            - /url: /about
+          - link "Journal" [ref=e259] [cursor=pointer]:
+            - /url: /journal
+          - link "Pricing" [ref=e260] [cursor=pointer]:
+            - /url: /pricing
+          - link "Contact" [ref=e261] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e262]:
+          - link "@theswitchwords" [ref=e263] [cursor=pointer]:
+            - /url: "#"
+          - link "hello@theswitchwords.com" [ref=e264] [cursor=pointer]:
+            - /url: mailto:hello@theswitchwords.com
+      - generic [ref=e265]:
+        - paragraph [ref=e266]: © 2026 The Switchwords
+        - generic [ref=e267]:
+          - link "Privacy" [ref=e268] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms" [ref=e269] [cursor=pointer]:
+            - /url: "#"

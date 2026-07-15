@@ -1,0 +1,129 @@
+- generic [active] [ref=e1]:
+  - button "Open Next.js Dev Tools" [ref=e140] [cursor=pointer]:
+    - img [ref=e141]
+  - alert [ref=e144]
+  - main [ref=e145]:
+    - generic "Main navigation" [ref=e146]:
+      - link "The Switchwords home" [ref=e147] [cursor=pointer]:
+        - /url: /
+        - img [ref=e148]
+        - img [ref=e149]
+        - generic [ref=e150]: theswitchwords
+      - navigation [ref=e151]:
+        - link "Home" [ref=e152] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e153] [cursor=pointer]:
+          - /url: /about
+        - link "Journal" [ref=e154] [cursor=pointer]:
+          - /url: /journal
+        - link "Pricing" [ref=e155] [cursor=pointer]:
+          - /url: /pricing
+        - link "Contact" [ref=e156] [cursor=pointer]:
+          - /url: /contact
+        - link "Account" [ref=e157] [cursor=pointer]:
+          - /url: /signin
+          - img [ref=e158]
+    - region "Your practice" [ref=e159]:
+      - generic [ref=e160]:
+        - generic [ref=e161]:
+          - generic [ref=e162]:
+            - heading "Your practice" [level=1] [ref=e163]
+            - img [ref=e164]
+          - paragraph [ref=e167]: Presence Plan — ₹999/month • Premium Member
+        - link "Logout" [ref=e168] [cursor=pointer]:
+          - /url: /signin
+      - generic [ref=e169]:
+        - complementary [ref=e170]:
+          - navigation "Practice sections" [ref=e171]:
+            - link "Today's Word" [ref=e172] [cursor=pointer]:
+              - /url: /practice
+              - generic [ref=e173]: Today's Word
+            - link "WhatsApp Chat" [ref=e174] [cursor=pointer]:
+              - /url: /practice/whatsapp-chat
+              - generic [ref=e175]: WhatsApp Chat
+            - link "Phone Support" [ref=e176] [cursor=pointer]:
+              - /url: /practice/phone-support
+              - generic [ref=e177]: Phone Support
+            - link "Practice Log" [ref=e178] [cursor=pointer]:
+              - /url: /practice/practice-log
+              - generic [ref=e179]: Practice Log
+            - link "Personal Plan" [ref=e180] [cursor=pointer]:
+              - /url: /practice/personal-plan
+              - generic [ref=e181]: Personal Plan
+            - link "Weekly Check-ins" [ref=e182] [cursor=pointer]:
+              - /url: /practice/weekly-check-ins
+              - generic [ref=e183]: Weekly Check-ins
+            - button "Settings" [ref=e184] [cursor=pointer]:
+              - generic [ref=e185]: Settings
+          - region "Membership details" [ref=e186]:
+            - img [ref=e187]
+            - heading "Presence Member" [level=2] [ref=e190]
+            - paragraph [ref=e191]: Full access to all premium features including personal support.
+            - list [ref=e192]:
+              - listitem [ref=e193]:
+                - img [ref=e194]
+                - generic [ref=e196]: Unlimited AI Chat
+              - listitem [ref=e197]:
+                - img [ref=e198]
+                - generic [ref=e200]: WhatsApp Support
+              - listitem [ref=e201]:
+                - img [ref=e202]
+                - generic [ref=e204]: Phone/Video Calls
+        - region "Weekly Check-ins" [ref=e206]:
+          - heading "Weekly Check-ins" [level=2] [ref=e207]
+          - region "Next weekly check-in" [ref=e208]:
+            - generic [ref=e209]:
+              - heading "Next Check-in" [level=3] [ref=e210]
+              - generic [ref=e211]: This Friday
+            - paragraph [ref=e212]: Your coach will reach out via WhatsApp to reflect on your practice this week.
+            - generic [ref=e213]:
+              - img [ref=e214]
+              - generic [ref=e217]:
+                - paragraph [ref=e218]: Friday, May 2 • 10:00 AM
+                - generic [ref=e219]: ~15 minute conversation via WhatsApp text
+          - region "Previous Check-ins" [ref=e220]:
+            - heading "Previous Check-ins" [level=3] [ref=e221]
+            - generic [ref=e222]:
+              - article [ref=e223]:
+                - heading "April 25, 2026" [level=4] [ref=e224]
+                - paragraph [ref=e225]: Discussed morning routine challenges. Agreed to focus on TOGETHER word.
+              - article [ref=e226]:
+                - heading "April 18, 2026" [level=4] [ref=e227]
+                - paragraph [ref=e228]: Reflected on first week. Noted improvement in morning clarity.
+    - generic [ref=e230]:
+      - generic [ref=e231]:
+        - generic [ref=e232]:
+          - link "The Switchwords home" [ref=e233] [cursor=pointer]:
+            - /url: /
+            - img [ref=e234]
+            - img [ref=e235]
+            - generic [ref=e236]: theswitchwords
+          - paragraph [ref=e237]: One word. Said softly. Said on purpose.
+          - generic "Social links" [ref=e238]:
+            - link "YouTube" [ref=e239] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e240]
+            - link "Instagram" [ref=e241] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e242]
+        - navigation "Footer navigation" [ref=e243]:
+          - link "About" [ref=e244] [cursor=pointer]:
+            - /url: /about
+          - link "Journal" [ref=e245] [cursor=pointer]:
+            - /url: /journal
+          - link "Pricing" [ref=e246] [cursor=pointer]:
+            - /url: /pricing
+          - link "Contact" [ref=e247] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e248]:
+          - link "@theswitchwords" [ref=e249] [cursor=pointer]:
+            - /url: "#"
+          - link "hello@theswitchwords.com" [ref=e250] [cursor=pointer]:
+            - /url: mailto:hello@theswitchwords.com
+      - generic [ref=e251]:
+        - paragraph [ref=e252]: © 2026 The Switchwords
+        - generic [ref=e253]:
+          - link "Privacy" [ref=e254] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms" [ref=e255] [cursor=pointer]:
+            - /url: "#"

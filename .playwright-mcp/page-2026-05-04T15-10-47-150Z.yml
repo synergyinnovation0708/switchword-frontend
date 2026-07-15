@@ -1,0 +1,132 @@
+- generic [active] [ref=e1]:
+  - button "Open Next.js Dev Tools" [ref=e140] [cursor=pointer]:
+    - img [ref=e141]
+  - alert [ref=e144]
+  - main [ref=e145]:
+    - generic "Main navigation" [ref=e146]:
+      - link "The Switchwords home" [ref=e147] [cursor=pointer]:
+        - /url: /
+        - img [ref=e148]
+        - img [ref=e149]
+        - generic [ref=e150]: theswitchwords
+      - navigation [ref=e151]:
+        - link "Home" [ref=e152] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e153] [cursor=pointer]:
+          - /url: /about
+        - link "Journal" [ref=e154] [cursor=pointer]:
+          - /url: /journal
+        - link "Pricing" [ref=e155] [cursor=pointer]:
+          - /url: /pricing
+        - link "Contact" [ref=e156] [cursor=pointer]:
+          - /url: /contact
+        - link "Account" [ref=e157] [cursor=pointer]:
+          - /url: /signin
+          - img [ref=e158]
+    - region "Your practice" [ref=e159]:
+      - generic [ref=e160]:
+        - generic [ref=e161]:
+          - generic [ref=e162]:
+            - heading "Your practice" [level=1] [ref=e163]
+            - img [ref=e164]
+          - paragraph [ref=e167]: Presence Plan — ₹999/month • Premium Member
+        - link "Logout" [ref=e168] [cursor=pointer]:
+          - /url: /signin
+      - generic [ref=e169]:
+        - complementary [ref=e170]:
+          - navigation "Practice sections" [ref=e171]:
+            - link "Today's Word" [ref=e172] [cursor=pointer]:
+              - /url: /practice
+              - generic [ref=e173]: Today's Word
+            - link "WhatsApp Chat" [ref=e174] [cursor=pointer]:
+              - /url: /practice/whatsapp-chat
+              - generic [ref=e175]: WhatsApp Chat
+            - link "Phone Support" [ref=e176] [cursor=pointer]:
+              - /url: /practice/phone-support
+              - generic [ref=e177]: Phone Support
+            - link "Practice Log" [ref=e178] [cursor=pointer]:
+              - /url: /practice/practice-log
+              - generic [ref=e179]: Practice Log
+            - link "Personal Plan" [ref=e180] [cursor=pointer]:
+              - /url: /practice/personal-plan
+              - generic [ref=e181]: Personal Plan
+            - button "Weekly Check-ins" [ref=e182] [cursor=pointer]:
+              - generic [ref=e183]: Weekly Check-ins
+            - button "Settings" [ref=e184] [cursor=pointer]:
+              - generic [ref=e185]: Settings
+          - region "Membership details" [ref=e186]:
+            - img [ref=e187]
+            - heading "Presence Member" [level=2] [ref=e190]
+            - paragraph [ref=e191]: Full access to all premium features including personal support.
+            - list [ref=e192]:
+              - listitem [ref=e193]:
+                - img [ref=e194]
+                - generic [ref=e196]: Unlimited AI Chat
+              - listitem [ref=e197]:
+                - img [ref=e198]
+                - generic [ref=e200]: WhatsApp Support
+              - listitem [ref=e201]:
+                - img [ref=e202]
+                - generic [ref=e204]: Phone/Video Calls
+        - region "Your Personal Practice Plan" [ref=e206]:
+          - heading "Your Personal Practice Plan" [level=2] [ref=e207]
+          - article [ref=e208]:
+            - generic [ref=e209]:
+              - img [ref=e210]
+              - heading "Current Focus" [level=3] [ref=e214]
+            - paragraph [ref=e215]: Morning grounding & scattered energy management
+            - paragraph [ref=e216]: Based on your practice patterns over the last 30 days, mornings are when you need the most support. TOGETHER and DIVINE-ORDER appear most frequently.
+          - article [ref=e217]:
+            - generic [ref=e218]:
+              - img [ref=e219]
+              - heading "Practice Goals" [level=3] [ref=e222]
+            - list [ref=e223]:
+              - listitem [ref=e224]:
+                - img [ref=e226]
+                - generic [ref=e228]: Maintain 7-day streak (achieved)
+              - listitem [ref=e229]:
+                - generic [ref=e231]: Reach 30-day streak by month end
+              - listitem [ref=e232]:
+                - generic [ref=e234]: Explore 3 new words this week
+          - article [ref=e235]:
+            - generic [ref=e236]:
+              - img [ref=e237]
+              - heading "Progress Insights" [level=3] [ref=e240]
+            - paragraph [ref=e241]: Your practice consistency has improved 45% this month. The words you reach for most often are aligned with morning routines, suggesting a strong anchor practice.
+    - generic [ref=e243]:
+      - generic [ref=e244]:
+        - generic [ref=e245]:
+          - link "The Switchwords home" [ref=e246] [cursor=pointer]:
+            - /url: /
+            - img [ref=e247]
+            - img [ref=e248]
+            - generic [ref=e249]: theswitchwords
+          - paragraph [ref=e250]: One word. Said softly. Said on purpose.
+          - generic "Social links" [ref=e251]:
+            - link "YouTube" [ref=e252] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e253]
+            - link "Instagram" [ref=e254] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e255]
+        - navigation "Footer navigation" [ref=e256]:
+          - link "About" [ref=e257] [cursor=pointer]:
+            - /url: /about
+          - link "Journal" [ref=e258] [cursor=pointer]:
+            - /url: /journal
+          - link "Pricing" [ref=e259] [cursor=pointer]:
+            - /url: /pricing
+          - link "Contact" [ref=e260] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e261]:
+          - link "@theswitchwords" [ref=e262] [cursor=pointer]:
+            - /url: "#"
+          - link "hello@theswitchwords.com" [ref=e263] [cursor=pointer]:
+            - /url: mailto:hello@theswitchwords.com
+      - generic [ref=e264]:
+        - paragraph [ref=e265]: © 2026 The Switchwords
+        - generic [ref=e266]:
+          - link "Privacy" [ref=e267] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms" [ref=e268] [cursor=pointer]:
+            - /url: "#"
