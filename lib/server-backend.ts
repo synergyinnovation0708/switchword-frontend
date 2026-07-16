@@ -6,11 +6,10 @@ import { buildInit, parseApiResponse } from "./backend";
 function normalizeApiBaseUrl(rawUrl: string) {
   try {
     const url = new URL(rawUrl);
-    url.pathname = url.pathname.replace(/\/+$/, "");
-
-    if (!url.pathname.endsWith("/api/v1")) {
-      url.pathname = `${url.pathname}/api/v1`;
-    }
+    // Strip on a plain string: assigning "" back to url.pathname would be
+    // normalized to "/" and the append would then produce "//api/v1".
+    const basePath = url.pathname.replace(/\/+$/, "");
+    url.pathname = basePath.endsWith("/api/v1") ? basePath : `${basePath}/api/v1`;
 
     return url.toString().replace(/\/+$/, "");
   } catch {
